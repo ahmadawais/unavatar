@@ -1,3 +1,13 @@
+# Changes
+
+Removed Youtube env from `now.json`
+
+```json
+"env": {
+  "YOUTUBE_API_KEY": "@unavatar.youtube_api_key"
+},
+```
+
 # unavatar
 
 <h1 align="center">
@@ -8,8 +18,9 @@
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/Kikobeats/unavatar)
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-
 > Get unified user avatar.
+
+
 
 ## License
 
